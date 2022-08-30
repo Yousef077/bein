@@ -24,15 +24,17 @@ body .cont {
 
 }
 
-body .cont .nav {
-    background-color: white;
+body .cont .nav {background-color: #BF2E1B;
+    color: white;
+    font-family: sans-serif;
     display: flex;
     width: 100%;
     justify-content: space-around;
     align-items:center;
     height: 5vh;
     margin-bottom: 20px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 3px 8px;
+
 }
 
 
